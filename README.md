@@ -1,2 +1,2 @@
 # colorGame
-simple game hai
+guess the color to particular corresponding RGB value
